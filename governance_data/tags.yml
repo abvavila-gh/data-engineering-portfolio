@@ -1,0 +1,6 @@
+# Ejemplo de tags de gobernanza
+Environment: prod
+Domain: sales
+Owner: data-team
+Sensitivity: confidential
+CostCenter: finance
